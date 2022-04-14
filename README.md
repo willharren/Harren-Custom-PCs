@@ -2,7 +2,7 @@
 
 ![Company Logo](/Harren-Custom-PCs/assets/Harren Custom PCs-logos_transparent.png)
 
-/docs/assets
+<a href="{{ Harren Custom PCs-logos_transparent.png }}/Harren-Custom-PCs/assets/Harren Custom PCs-logos_transparent.png/">Logo</a>
 
 ![Book logo](/least-github-pages/assets/logo.png)
 
