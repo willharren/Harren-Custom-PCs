@@ -1,6 +1,6 @@
 ## Welcome to Harren Custom PCs
 
-![Company Logo](/Harren-Custom-PCs/assets/imgages/Harren Custom PCs-logos_transparent.png)
+![Company Logo](/Harren-Custom-PCs/assets/Harren Custom PCs-logos_transparent.png)
 
 /docs/assets
 
