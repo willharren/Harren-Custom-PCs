@@ -1,4 +1,3 @@
-#yml front matter
 ---
 layout: page
 title:  About
